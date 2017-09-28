@@ -91,6 +91,7 @@
                     </view>
                     <connections>
                         <outlet property="myContents" destination="5Ys-9u-ZBl" id="phg-qR-ruA"/>
+                        <outlet property="myDate" destination="LY3-AX-7ui" id="g6J-1Y-M1I"/>
                         <outlet property="myTitle" destination="Cxp-MJ-T1H" id="esK-nM-ZKx"/>
                     </connections>
                 </viewController>
